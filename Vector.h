@@ -1,6 +1,5 @@
 #pragma once
 
-
 class Vector {
 private:
     double* m_p;
